@@ -41,7 +41,7 @@
     "angular-qrcode": "~6.2.1",
     "angular-route": "~1.5.10",
     "angular-sanitize": "~1.5.10",
-    "angular-translate": "~2.13.1",
+    "angular-translate": "~2.18.4",
     "angular-ui-router": "~0.3.2",
     "angularjs-scroll-glue": "~2.1.0",
     "autolinker": "~0.27.0",
